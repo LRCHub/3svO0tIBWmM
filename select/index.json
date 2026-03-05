@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Radio Happy",
   "base_artist": "大槻唯 (CV: 山下七海)",
-  "createdAt": "2026-03-01T00:48:28.927679Z",
+  "createdAt": "2026-03-05T15:23:07.107300Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -56,9 +56,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "Radio Happy",
-      "artist": "大槻唯 (山下七海)",
+      "artist": "大槻唯(CV:山下七海)",
       "has_synced": false,
-      "path": "select/pl_01_Radio_Happy_大槻唯_(山下七海).txt"
+      "path": "select/pl_01_Radio_Happy_大槻唯(CV_山下七海).txt"
     }
   ]
 }
